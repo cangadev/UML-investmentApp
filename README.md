@@ -7,6 +7,8 @@ I used "EDRAW MAX" to make this modelage.
 did you like UML-investmentApp?<br>
 Leave a start and follow me <br><br>
 
+======== pt ========= <br><br>
+
 A UML é uma linguagem-padrão para a elaboração da estrutura de projetos de software. Ela poderá ser empregada para a visualização, a especificação, a construção e a documentação de artefatos que façam uso de sistemas complexos de software.<br>
 Modelei meu projecto de investimento/apoio para estudantes sem capacidade financeira.<br>
 Usei "EDRAW MAX" para fazer essa modelagem.<br> <br>
